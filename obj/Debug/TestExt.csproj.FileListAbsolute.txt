@@ -1,0 +1,7 @@
+G:\Test\TestExt\TestExt\bin\TestExt.dll.config
+G:\Test\TestExt\TestExt\bin\TestExt.dll
+G:\Test\TestExt\TestExt\bin\TestExt.pdb
+G:\Test\TestExt\TestExt\obj\Debug\TestExt.csprojAssemblyReference.cache
+G:\Test\TestExt\TestExt\obj\Debug\TestExt.csproj.CoreCompileInputs.cache
+G:\Test\TestExt\TestExt\obj\Debug\TestExt.dll
+G:\Test\TestExt\TestExt\obj\Debug\TestExt.pdb
